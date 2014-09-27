@@ -55,9 +55,6 @@
 - href: http://www.google.com/profiles/ptarjan
   name: google
 
-- href: http://www.google.com/reader/shared/18104599723933929465
-  name: google reader
-
 - http://www.hulu.com/profiles/ptarjan
 
 - href: http://www.last.fm/user/ptarjan/
@@ -106,3 +103,7 @@
 - href: bitcoin:1MBU85YWqXgZjpMzh9VpwL7LCQk8wy6eXK
   name: bitcoin
   favicon: http://upload.wikimedia.org/wikipedia/commons/5/50/Bitcoin.png
+
+- herf: http://scholar.google.com/citations?user=E50oiSIAAAAJ
+  name: google scholar
+  favicon: http://scholar.google.com/favicon-png.ico
