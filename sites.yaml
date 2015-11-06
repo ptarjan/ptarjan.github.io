@@ -13,7 +13,7 @@
 
 #- http://digg.com/users/paralax/
 
-- http://friendfeed.com/ptarjan
+#- http://friendfeed.com/ptarjan
 
 - http://github.com/ptarjan
 
@@ -108,6 +108,6 @@
   name: scholar
   favicon: https://scholar.google.com/favicon-png.ico
 
-- href: http://xn--h28h.cf/
-  name: unicode domain
-  favicon: http://emojipedia.org/wp-content/uploads/2013/07/160x160x1-smiling-face-with-open-mouth-and-smiling-eyes.png.pagespeed.ic.VK_Yv8Q2S4.jpg
+#- href: http://xn--h28h.cf/
+#  name: unicode domain
+#  favicon: http://emojipedia.org/wp-content/uploads/2013/07/160x160x1-smiling-face-with-open-mouth-and-smiling-eyes.png.pagespeed.ic.VK_Yv8Q2S4.jpg
