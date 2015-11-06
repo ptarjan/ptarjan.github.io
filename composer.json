@@ -1,0 +1,11 @@
+{
+    "name": "pt/paultarjan",
+    "description": "Souce for paultarjan.com",
+    "authors": [
+        {
+            "name": "ptarjan",
+            "email": "github@paulisageek.com"
+        }
+    ],
+    "require": {}
+}
