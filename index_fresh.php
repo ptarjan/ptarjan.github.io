@@ -18,7 +18,7 @@
 
 <h1 class="fn">Paul Tarjan</h1>
 
-<img src="paul.jpg" class="photo" alt="Paul Tarjan" />
+<a href="paul.jpg"><img src="paul_small.jpg" class="photo" alt="Paul Tarjan" /></a>
 
 <iframe 
   src="https://www.facebook.com/plugins/subscribe?href=http://www.facebook.com/pt"
