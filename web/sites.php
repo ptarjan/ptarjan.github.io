@@ -8,7 +8,7 @@ ul.rel-me img {
     border: 0;
 }
 ul.rel-me {
-    text-align: justify;
+    column-count: 3;
 }
 ul.rel-me li {
     display: inline-block;
@@ -39,7 +39,7 @@ foreach ($sites as $key => $site) {
     }
     unset($parsed);
 
-    if (!isset($site['href'])) 
+    if (!isset($site['href']))
         die( "needs an 'href' attribute: " . print_r($site, TRUE));
 
     if (!isset($site['name'])) {
