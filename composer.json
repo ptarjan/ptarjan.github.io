@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.3.3"
     },
-		"require-dev": {
-			"heroku/heroku-buildpack-php": "*"
-		}
+    "require-dev": {
+      "heroku/heroku-buildpack-php": "*"
+    }
 }
