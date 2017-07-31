@@ -41,6 +41,12 @@ a, a:visited {
   margin-left: 30px;
   margin-bottom: 30px;
 }
+
+@media screen and (max-width:960px) .photo {
+  display: block;
+  margin: 0 auto;
+}
+
 #menu {
   text-align: center;
 }
