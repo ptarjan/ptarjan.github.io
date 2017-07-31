@@ -8,7 +8,7 @@ ul.rel-me img {
     border: 0;
 }
 ul.rel-me {
-    column-count: 3;
+    column-width: 150px;
 }
 ul.rel-me li {
     display: inline-block;
