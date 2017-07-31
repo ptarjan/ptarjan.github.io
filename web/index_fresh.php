@@ -9,6 +9,7 @@
 <meta http-equiv="X-XRDS-Location" content="http://www.myopenid.com/xrds?username=ptarjan.myopenid.com" />
 <meta property="og:image" content="http://paultarjan.com/paul.jpg" />
 <meta property="fb:admins" content="218471" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css" />
 <body class="vcard">
 <div id="menu">
