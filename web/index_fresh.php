@@ -13,7 +13,7 @@
 <body class="vcard">
 <div id="menu">
 <a href="mailto:web@paultarjan.com" class="email">Contact</a>
-<a href="resume">Resume</a>
+<a href="resume.html">Resume</a>
 </div>
 
 <h1 class="fn">Paul Tarjan</h1>
