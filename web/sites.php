@@ -8,11 +8,12 @@ ul.rel-me img {
     border: 0;
 }
 ul.rel-me {
-    column-width: 150px;
+    column-width: 160px;
 }
 ul.rel-me li {
     display: inline-block;
     list-style: none;
+    width: 160px;
     margin: 5px;
     padding: 0;
 }
