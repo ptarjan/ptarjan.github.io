@@ -45,7 +45,8 @@ a, a:visited {
 @media screen and (max-width:960px) {
   .photo {
     display: block;
-    margin: 0 auto;
+    float: none;
+    margin: 0 auto 30px;
   }
 }
 
