@@ -49,8 +49,8 @@
 
 - http://www.facebook.com/pt
 
-- http://www.flickr.com/photos/ptarjan/
-  favicon: http://l.yimg.com/g/favicon.ico
+#- http://www.flickr.com/photos/ptarjan/
+#  favicon: http://l.yimg.com/g/favicon.ico
 
 - href: http://www.google.com/profiles/ptarjan
   name: google
