@@ -20,7 +20,7 @@
 #- href: http://identi.ca/ptarjan
 #  name: identi.ca
 
-- http://paulisageek.com/
+#- http://paulisageek.com/
 
 #- href: http://picasaweb.google.com/ptarjan
 #  name: picassa
@@ -62,7 +62,7 @@
 
 - http://www.linkedin.com/in/ptarjan
 
-- http://www.myspace.com/ptarjan
+#- http://www.myspace.com/ptarjan
 
 - http://www.slideshare.net/ptarjan
 
@@ -79,8 +79,8 @@
 
 - http://sourceforge.net/users/ptarjan
 
-- href: http://ptarjan.myplaxo.com/
-  name: plaxo
+#- href: http://ptarjan.myplaxo.com/
+#  name: plaxo
 
 - href: http://www.crunchbase.com/person/paul-tarjan
   favicon: http://www.crunchbase.com/images/favicon.png
