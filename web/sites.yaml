@@ -1,5 +1,5 @@
-- href: http://answers.yahoo.com/my/profile?show=CKLS7wpLaa
-  name: yahoo answers
+# - href: http://answers.yahoo.com/my/profile?show=CKLS7wpLaa
+#   name: yahoo answers
 
 #- href: http://blog.paulisageek.com/
 #  favicon: http://paulisageek.com/favicon.ico
@@ -28,9 +28,9 @@
 #- href: http://ptarjan.myopenid.com/
 #  name: myopenid
 
-- href: http://ptarjan.tumblr.com/
-  name: tumblr
-  favicon: http://www.tumblr.com/favicon.ico
+#- href: http://ptarjan.tumblr.com/
+#  name: tumblr
+#  favicon: http://www.tumblr.com/favicon.ico
 
 - http://reddit.com/user/ptarjan
 
@@ -38,9 +38,9 @@
 
 - http://twitter.com/ptarjan
 
-- http://www.blogger.com/profile/10076655978910859386
+# - http://www.blogger.com/profile/10076655978910859386
 
-- http://www.disqus.com/people/ptarjan
+# - http://www.disqus.com/people/ptarjan
 
 #- http://www.dopplr.com/traveller/ptarjan
 
@@ -52,32 +52,32 @@
 #- http://www.flickr.com/photos/ptarjan/
 #  favicon: http://l.yimg.com/g/favicon.ico
 
-- href: http://www.google.com/profiles/ptarjan
-  name: google
+#-  href: http://www.google.com/profiles/ptarjan
+#   name: google
 
 #- http://www.hulu.com/profiles/ptarjan
 
-- href: http://www.last.fm/user/ptarjan/
-  name: last.fm
+# - href: http://www.last.fm/user/ptarjan/
+#   name: last.fm
 
 - http://www.linkedin.com/in/ptarjan
 
 #- http://www.myspace.com/ptarjan
 
-- http://www.slideshare.net/ptarjan
+# - http://www.slideshare.net/ptarjan
 
 #- http://technorati.com/people/ptarjan
 
-- http://www.vimeo.com/ptarjan
+# - http://www.vimeo.com/ptarjan
 
-- http://www.yelp.com/user_details?userid=Z6hn_Qcbdn97XgMQnY4N8g
+# - http://www.yelp.com/user_details?userid=Z6hn_Qcbdn97XgMQnY4N8g
 
-- http://youtube.com/user/ptarjan
+# - http://youtube.com/user/ptarjan
 
 #- href: http://profiles.yahoo.com/u/KOT52K332INRF7PSYN5XT6XU7Y
 #  name: yahoo
 
-- http://sourceforge.net/users/ptarjan
+# - http://sourceforge.net/users/ptarjan
 
 #- href: http://ptarjan.myplaxo.com/
 #  name: plaxo
@@ -85,10 +85,10 @@
 - href: http://www.crunchbase.com/person/paul-tarjan
   favicon: http://www.crunchbase.com/images/favicon.png
 
-- http://foursquare.com/user/55130
+# - http://foursquare.com/user/55130
 
-- href: http://en.gravatar.com/ptarjan
-  name: gravatar
+#- href: http://en.gravatar.com/ptarjan
+#  name: gravatar
 
 #- http://www.formspring.me/ptarjan
 
@@ -96,9 +96,9 @@
 #  name: posterous
 #  favicon: http://ptarjan.posterous.com/images/favicon.png
 
-- href: http://about.me/ptarjan
-  name: about.me
-  favicon: http://wac.2659.edgecastcdn.net/802659/production74/images/icons/favicon.ico
+#- href: http://about.me/ptarjan
+#  name: about.me
+#  favicon: http://wac.2659.edgecastcdn.net/802659/production74/images/icons/favicon.ico
 
 - href: bitcoin:1MBU85YWqXgZjpMzh9VpwL7LCQk8wy6eXK
   name: bitcoin
@@ -114,7 +114,7 @@
 #  name: unicode domain
 #  favicon: http://emojipedia.org/wp-content/uploads/2013/07/160x160x1-smiling-face-with-open-mouth-and-smiling-eyes.png.pagespeed.ic.VK_Yv8Q2S4.jpg
 
-- https://www.wechall.net/profile/paralax
+# - https://www.wechall.net/profile/paralax
 
 # hacking
 # - http://www.bright-shadows.net/userstats.php?username=paralax
