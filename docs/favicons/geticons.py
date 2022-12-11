@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import os
-import urllib2
+import urllib.request, urllib.error, urllib.parse
 from BeautifulSoup import BeautifulSoup
 root = 'http://paultarjan.com/sites.php'
 headers = {
@@ -12,8 +12,8 @@ headers = {
     'Connection': 'keep-alive',
 }
 
-req = urllib2.Request(root, headers=headers)
-page = urllib2.urlopen(req)
+req = urllib.request.Request(root, headers=headers)
+page = urllib.request.urlopen(req)
 soup = BeautifulSoup(page)
 for a in soup('a', rel='me'):
     for img in a('img'):
@@ -23,13 +23,13 @@ for a in soup('a', rel='me'):
             fname = fname.replace(' ', '_')
 
             if os.path.isfile(fname):
-                print 'Skipping %s' % fname
+                print('Skipping %s' % fname)
                 continue
             try:
-                req = urllib2.Request(src, headers=headers)
-                data = urllib2.urlopen(req).read()
+                req = urllib.request.Request(src, headers=headers)
+                data = urllib.request.urlopen(req).read()
                 f = open(fname, 'w')
                 f.write(data)
                 f.close()
-            except Exception, e:
-                print src, fname, e
+            except Exception as e:
+                print(src, fname, e)
