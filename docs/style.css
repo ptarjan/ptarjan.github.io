@@ -1,3 +1,6 @@
+* {
+    margin: 0; padding: 0;
+}
 body {
   font-family: corbel, 'lucida grande', helvetica, sans-serif;
   font-size: 18px;
@@ -67,4 +70,30 @@ h1.fn {
 }
 h2 {
   overflow: hidden;
+}
+
+ul.rel-me img {
+    height: 16px;
+    width: 16px;
+    border: 0;
+}
+ul.rel-me {
+    column-width: 160px;
+}
+ul.rel-me li {
+    display: inline-block;
+    list-style: none;
+    width: 160px;
+    margin: 5px;
+    padding: 0;
+}
+ul.rel-me a {
+    padding: 10px;
+    text-decoration: none;
+}
+ul.rel-me a img {
+    margin-right: 5px;
+}
+ul.rel-me a:hover {
+    background: #e7e7e7;
 }
