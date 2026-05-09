@@ -1,2 +1,5 @@
 User-Agent: *
 Allow: /
+
+Sitemap: https://paultarjan.com/sitemap.xml
+Sitemap: https://paultarjan.com/nerdiversary/sitemap.xml
