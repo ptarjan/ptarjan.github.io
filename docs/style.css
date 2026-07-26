@@ -132,3 +132,10 @@ ul.projects span {
     line-height: 145%;
     color: #444;
 }
+ul.projects a img {
+    height: 16px;
+    width: 16px;
+    border: 0;
+    margin-right: 7px;
+    vertical-align: -2px;
+}
