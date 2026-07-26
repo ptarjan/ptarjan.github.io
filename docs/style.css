@@ -97,3 +97,38 @@ ul.rel-me a img {
 ul.rel-me a:hover {
     background: #e7e7e7;
 }
+
+/* Projects: one card per thing I actually built, above the link salad. */
+ul.projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 12px;
+    margin: 16px 5px;
+}
+ul.projects li {
+    list-style: none;
+    padding: 12px 14px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background: #fbfbfb;
+}
+ul.projects li:hover {
+    background: #f2f2f2;
+}
+ul.projects a {
+    display: block;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-bottom: 4px;
+}
+ul.projects a:hover {
+    text-decoration: underline;
+}
+ul.projects span {
+    display: block;
+    font-size: 15px;
+    line-height: 145%;
+    color: #444;
+}

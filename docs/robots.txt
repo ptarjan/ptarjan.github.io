@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://paultarjan.com/sitemap.xml
 Sitemap: https://paultarjan.com/nerdiversary/sitemap.xml
+Sitemap: https://paultarjan.com/cryptic-teacher/sitemap.xml
