@@ -107,7 +107,6 @@ ul.projects {
 }
 ul.projects li {
     list-style: none;
-    padding: 12px 14px;
     border: 1px solid #ddd;
     border-radius: 6px;
     background: #fbfbfb;
@@ -115,18 +114,28 @@ ul.projects li {
 ul.projects li:hover {
     background: #f2f2f2;
 }
+/* The padding lives on the anchor, not the li, so the whole card is the click
+   target — the hover highlight was already promising that (feedback 2026-08-01:
+   "clicking the cards should go to their project"). If a card ever grows a
+   second link, this has to become an overlay pseudo-element instead; nested
+   anchors are invalid. */
 ul.projects a {
+    display: block;
+    padding: 12px 14px;
+    text-decoration: none;
+    color: inherit;
+}
+ul.projects .p-title {
     display: block;
     font-weight: bold;
     letter-spacing: 1px;
     text-transform: uppercase;
-    text-decoration: none;
     margin-bottom: 4px;
 }
-ul.projects a:hover {
+ul.projects a:hover .p-title {
     text-decoration: underline;
 }
-ul.projects span {
+ul.projects .p-desc {
     display: block;
     font-size: 15px;
     line-height: 145%;
