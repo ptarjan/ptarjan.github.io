@@ -15,7 +15,10 @@ h1, h2 {
   font-weight: bold;
   letter-spacing: 2px;
   margin: 16px 0;
-  padding: 4px 0 3px;
+  /* Bottom padding has to clear two things, not one: the descender on a J or Q,
+     and the drop shadow below it, which is offset 3px down and blurred 10px.
+     3px cleared neither — "PROJECTS" sat on its own bottom rule. */
+  padding: 6px 0 12px;
   text-align: center;
   text-shadow: 3px 3px 10px #AAAAAA;
   text-transform: uppercase;
